@@ -1,0 +1,5 @@
+  # cat=basic/enable; type=boolean; label=Add include path:Optional. Add (prepend) the Zend Framework directory to the beginning of the include_path, so that PHP can find the Zend Framework classes.
+addIncludePath =
+
+  # cat=basic/enable; type=boolean; label=Register autoloader:Optional. After registering the Zend Framework autoload callback, you can reference classes from Zend Framework without having to load them explicitly.
+registerAutoload =

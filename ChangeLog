@@ -1,0 +1,63 @@
+09-03-14 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Zend Framework 1.7.6 Minimal.
+	
+09-02-17 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Zend Framework 1.7.5 Minimal.
+	
+09-02-02 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Zend Framework 1.7.4 Minimal.
+
+09-01-21 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Zend Framework 1.7.3 Minimal.
+
+09-01-14 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Added two options "Add include path" and "Register autoloader". Marked extension as stable.
+
+09-01-10 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Zend Framework 1.7.2 Minimal.
+
+08-12-03 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Zend Framework 1.7.1 Minimal.
+
+08-11-25 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Zend Framework 1.7.0 Minimal.
+
+08-10-15 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Zend Framework 1.6.2 Minimal.
+
+08-09-22 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Zend Framework 1.6.1 Minimal.
+
+08-09-05 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Zend Framework 1.6.0 Minimal
+
+08-09-02 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Added german documentation. Changed version number to the same like Zend Framework, optimized adding include path
+
+08-07-30 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Zend Framework 1.5.3, small changes, code optimization
+
+08-07-28 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Integrated new Zend Framework version 1.5.3
+
+08-07-24 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Small changes, added README.txt, nothing special
+
+08-07-03 Zephir AG, www.zephir.ch  <thomas.breuss@zephir.ch>
+
+	* Initial release
